@@ -13,7 +13,6 @@ function Home() {
               <p className='text-xl'>Saúde e bem estar em um só lugar!</p>
   
               <div className="flex justify-around gap-4">
-              
                 <button className='rounded bg-indigo-400 text-black font-bold py-2 px-4'>Ver Categorias</button>
               </div>
             </div>
